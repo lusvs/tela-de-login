@@ -20,7 +20,7 @@ body {
 
 form {
     width: 320px;
-    height: 320px;
+    height: 325px;
 
     display: flex;
     flex-direction: column;
@@ -42,8 +42,13 @@ h1{
 .es{
     display: flex;
     flex-direction: column;
-    align-items: start;
     gap: 10px;
+}
+
+.es2{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
 }
 
 .inputs{   
